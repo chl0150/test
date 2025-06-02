@@ -55,7 +55,7 @@ function preload(){
 
     //걷는 사람
     for (let i = 1; i <= 3; i++) {
-    walkerImages.push(loadImage(`photo/walkingperson${i}.png`));
+    walkerImages.push(loadImage(`walkingperson${i}.png`));
     }
     
 }
