@@ -28,28 +28,28 @@ let done = 0;
 
 function preload(){
     //배경 이미지 생성
-    bgImgs[0] = loadImage('photo/scene1-1.png'); //씨앗 심는 구멍
-    bgImgs[1] = loadImage('photo/scene1-2.png'); //씨앗
-    bgImgs[2] = loadImage('photo/scene1-3.png'); //흙 다시
-    bgImgs[3] = loadImage('photo/scene2.png'); //집
-    bgImgs[4] = loadImage('photo/scene3-1.jpg'); //길
-    bgImgs[5] = loadImage('photo/scene3-2.jpg'); //길 + 비
-    bgImgs[6] = loadImage('photo/scene4.png'); //지하철
-    bgImgs[7] = loadImage('photo/scene5-1.png'); //엘리베이터open
+    bgImgs[0] = loadImage('scene1-1.png'); //씨앗 심는 구멍
+    bgImgs[1] = loadImage('scene1-2.png'); //씨앗
+    bgImgs[2] = loadImage('scene1-3.png'); //흙 다시
+    bgImgs[3] = loadImage('scene2.png'); //집
+    bgImgs[4] = loadImage('scene3-1.jpg'); //길
+    bgImgs[5] = loadImage('scene3-2.jpg'); //길 + 비
+    bgImgs[6] = loadImage('scene4.png'); //지하철
+    bgImgs[7] = loadImage('scene5-1.png'); //엘리베이터open
     //bgImgs[8] = loadImage('photo/scene5-2.png'); //엘리베이터closing
     //gImgs[9] = loadImage('photo/scene5-3.png'); //엘리베이터closed
     //bgImgs[10] = loadImage('photo/scene6-1.png'); //발사1
     //bgImgs[11] = loadImage('photo/scene6-2.png'); //발사2
     //bgImgs[12] = loadImage('photo/scene7.png'); //캠퍼스길
-    bgImgs[13] = loadImage('photo/scene8-1.png'); //나무
-    bgImgs[14] = loadImage('photo/scene8-2.png'); //나무
-    bgImgs[15] = loadImage('photo/scene8-3.png'); //나무
-    bgImgs[16] = loadImage('photo/scene8-4.png'); //나무
-    bgImgs[17] = loadImage('photo/scene8-5.png'); //나무
-    bgImgs[18] = loadImage('photo/scene8-6.png'); //나무
-    bgImgs[19] = loadImage('photo/scene8-7.png'); //큰 나무
-    bgImgs[20] = loadImage('photo/scene_ending_.png'); //ending credit
-    bgImgs[21] = loadImage('photo/scene_opening_.png'); //opening
+    bgImgs[13] = loadImage('scene8-1.png'); //나무
+    bgImgs[14] = loadImage('scene8-2.png'); //나무
+    bgImgs[15] = loadImage('scene8-3.png'); //나무
+    bgImgs[16] = loadImage('scene8-4.png'); //나무
+    bgImgs[17] = loadImage('scene8-5.png'); //나무
+    bgImgs[18] = loadImage('scene8-6.png'); //나무
+    bgImgs[19] = loadImage('scene8-7.png'); //큰 나무
+    bgImgs[20] = loadImage('scene_ending_.png'); //ending credit
+    bgImgs[21] = loadImage('scene_opening_.png'); //opening
 
     //요소 이미지 생성 
 
